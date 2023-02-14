@@ -3,13 +3,13 @@ import json
 
 # print(str(sys.argv))
 
-dic={"name" : sys.argv[1] , "city" : sys.argv[2]}
-print(dic)
+# dic={"name" : sys.argv[1] , "city" : sys.argv[2]}
+# print(dic)
 
 # step 1: read the existing data
-f = open("jsoncrud.json")
-data=json.load(f)
-print(data)
+# f = open("jsoncrud.json")
+# data=json.load(f)
+# print(data)
 
 
 # data["users"].append(dic)
