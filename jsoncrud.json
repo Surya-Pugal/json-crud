@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "name": "John",
+            "city": "Toronto"
+        },
+        {
+            "name": "Shiva",
+            "city": "Washington"
+        },
+        {
+            "name": "Peter",
+            "city": "Toronto"
+        },
+        {
+            "name": "James",
+            "city": "winnipeg"
+        },
+        {
+            "name": "Christo",
+            "city": "Newyork"
+        }
+    ]
+}
